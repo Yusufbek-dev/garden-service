@@ -606,6 +606,7 @@ footer {
 }
 .footer-list li {
   margin-bottom: 10px;
+  border-bottom: 1px solid transparent;g
 }
 .footer-list li:hover{
   border-bottom: 1px solid #FFFFFF;
