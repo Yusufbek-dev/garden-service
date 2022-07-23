@@ -124,6 +124,7 @@ header {
   padding: 9px 52px;
   background-color: #FFFFFF;
   border: 2px solid #FFFFFF;
+  cursor: pointer;
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
@@ -605,6 +606,9 @@ footer {
 }
 .footer-list li {
   margin-bottom: 10px;
+}
+.footer-list li:hover{
+  border-bottom: 1px solid #FFFFFF;
 }
 .footer-list li a {
   font-family: 'Roboto';
